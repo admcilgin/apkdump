@@ -1,0 +1,25 @@
+{
+  "name": "apkdump",
+  "version": "1.0.0",
+  "description": "A tool to extract info from an APK and output in JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appetizerio/apkdump.git"
+  },
+  "keywords": [
+    "apk"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/appetizerio/apkdump/issues"
+  },
+  "homepage": "https://github.com/appetizerio/apkdump#readme",
+  "dependencies": {
+    "adbkit-apkreader": "^2.0.0"
+  }
+}
