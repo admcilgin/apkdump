@@ -4,7 +4,8 @@
   "description": "A tool to extract info from an APK and output in JSON",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pack": "webpack index.js bundle.js --target node"
   },
   "repository": {
     "type": "git",
