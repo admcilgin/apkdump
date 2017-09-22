@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/appetizerio/apkdump#readme",
   "dependencies": {
-    "adbkit-apkreader": "^2.1.2"
+    "adbkit-apkreader": "^3.0.0"
   },
   "devDependencies": {
     "webpack": "^3.6.0"
